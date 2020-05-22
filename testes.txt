@@ -1,0 +1,7 @@
+float(modulo) = 0
+        if modulo < century:
+            century +=1
+
+
+
+            divide_palavra = palavra.split()
