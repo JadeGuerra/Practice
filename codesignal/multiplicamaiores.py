@@ -15,6 +15,6 @@ def multiplica(inputArray):
         b+=1
     return bigger
 
-inputArray = [3, 6, -2, -5, 7, 3]
+inputArray = [-23, 4, -3, 8, -12]
 
 print(multiplica(inputArray))
