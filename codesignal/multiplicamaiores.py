@@ -10,10 +10,7 @@ def multiplica(inputArray):
         #multiplica os elementos do array
         multiply = inputArray[a] * inputArray[b]
         if multiply > bigger:
-            bigger = multiply
-        print(inputArray[a])
-        print(inputArray[b])
-        print(bigger)        
+            bigger = multiply        
         a+=1
         b+=1
     return bigger
